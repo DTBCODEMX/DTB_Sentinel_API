@@ -1,0 +1,7 @@
+flask
+cryptography
+pandas
+pytest
+firebase-admin
+urllib3==1.26.15
+charset-normalizer==2.0.12
