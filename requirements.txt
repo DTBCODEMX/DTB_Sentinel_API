@@ -3,5 +3,5 @@ cryptography
 pandas
 pytest
 firebase-admin
-urllib3==1.26.15
+urllib3==1.26.19
 charset-normalizer==2.0.12
